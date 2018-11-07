@@ -8,6 +8,7 @@ export interface Bar {
   phone: string;
 }
 
+
 @Injectable({
   providedIn: 'root'
 })
